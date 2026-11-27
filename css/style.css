@@ -799,3 +799,31 @@ html {
     color: var(--primary-color);
     margin-top: 15px;
 }
+.welcome {
+    padding: 60px 20px;
+    text-align: center;
+    background: #F5F2F9;
+}
+
+.welcome h2 {
+    color: #512080;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.welcome p {
+    max-width: 800px;
+    margin: 0 auto 25px;
+    color: #17243A;
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.welcome .btn {
+    display: inline-block;
+    background: #512080;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 6px;
+}
