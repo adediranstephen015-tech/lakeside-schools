@@ -468,6 +468,15 @@ color: var(--light-color);
 .gallery-item img {
     height: 200px;
 }
+.hero {
+    padding: 50px 15px;
+}
+
+.hero .btn {
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 15px;
+}
 }
 /* Smooth Website Effects */
 
