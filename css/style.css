@@ -452,7 +452,22 @@ color: var(--light-color);
     .footer-links a {
         margin: 8px;
     }
+.gallery-page {
+    padding: 40px 15px;
+}
 
+.gallery-page h1 {
+    font-size: 28px;
+}
+
+.gallery-container {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.gallery-item img {
+    height: 200px;
+}
 }
 /* Smooth Website Effects */
 
